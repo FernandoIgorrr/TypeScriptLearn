@@ -1,2 +1,2 @@
 # TypeScriptLearn
-Aprendendo TypeScript
+Vou utilizar o livro "JavaScript: The Definitive Guide: Master the World's Most-Used Programming Language - 6th Edition" do autor David Flanagan e usar Typescript para fazer todos os projetos do livro.
